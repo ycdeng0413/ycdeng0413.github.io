@@ -1,5 +1,10 @@
 body{
   background-color: silver;
   padding: 20px;
-  font-family:sans-serif;
+  font-family:Georgia;
   color:black;}
+h1{
+  background-color: rgb(185,179,175);
+  padding: 20px;
+  font-family:Georgia;
+  color:white;}
