@@ -1,15 +1,14 @@
 body{
   background-color: silver;
   color: black;
-  padding: 20px;
-  font-family: Impact;}
+  padding: 20px;}
 h1{
   background-color: rgb(185,179,175);
-  font-family: Georgia;
+  font-family: Impact;
   color: white;
-  padding: 50px;}
+  padding: 20px;}
 .bio{
   background-color: white;
   border: 1px solid #665544;
-  font-family: Impact;
+  font-family: Georgia;
   color: black;}
