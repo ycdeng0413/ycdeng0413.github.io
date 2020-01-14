@@ -1,9 +1,10 @@
 body{
-      background-color: silver;
+      background-color: whitesmoke;
       color: black;
       padding: 20px;}
 h1{
-      background-color: black;
+      background-color: saddlebrown;
+      border: 4px solid #FFFFFF;
       font-family: Bookman;
       color: white;
       padding: 20px;}
