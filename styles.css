@@ -1,11 +1,12 @@
 body{
-  background-color: silver;
-  border: 1px solid #665544;
-  padding: 40px;
-  font-family:Georgia;
-  color:black;}
-h1{
+  background-color: silver;}
+p.name{
   background-color: rgb(185,179,175);
   padding: 50px;
   font-family:Impact;
   color:white;}
+p.bio{
+  background-color: white;
+  border: 1px solid #665544;
+  font-family:Georgia;
+  color:black;}
