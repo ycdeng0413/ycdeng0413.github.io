@@ -12,7 +12,8 @@ h1{
       margin-top: 5px;
       margin-bottom: 5px;
       padding: 20px;
-      font-family: Garamond;
+      #font-family: Garamond;
+      font-family: Bookman
       color: white;
       text-align: center;}
 h3{
