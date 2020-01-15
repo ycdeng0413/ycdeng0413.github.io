@@ -1,7 +1,9 @@
 body{
       background-color: whitesmoke;
       color: black;
-      padding: 20px;}
+      padding: 20px;
+      resize: both;
+      overflow: auto;}
 h1{
       background-image: linear-gradient(to bottom right, saddlebrown, maroon);
       border: 4px solid #FFFFFF;
