@@ -15,6 +15,8 @@ h1{
 h3{
       margin-left: 25px;
       margin-right: 25px;
+      margin-up: 5px;
+      margin-down: 5px;
       font-family: Georgia;
       padding: 10px;}
 a{
