@@ -23,7 +23,9 @@ h3{
       font-family: Georgia;
       color: black;
       height: 350px;
-      padding: 10px;}
+      padding: 10px;
+      resize: both;
+      overflow: auto;}
 img.align{
       float: right;
       margin-left: 10px;}
