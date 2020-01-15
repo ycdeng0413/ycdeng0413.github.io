@@ -15,8 +15,9 @@ h1{
 h3{
       margin: 25px;
       font-family: Georgia;
-      color: black;
       padding: 10px;}
+a{
+      color: black;}
 .bio{
       margin: 25px;
       background-color: white;
