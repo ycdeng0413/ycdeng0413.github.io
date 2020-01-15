@@ -13,7 +13,8 @@ h1{
       color: white;
       text-align: center;}
 h3{
-      margin: 25px;
+      margin.left: 25px;
+      margin.right: 25px;
       font-family: Georgia;
       padding: 10px;}
 a{
