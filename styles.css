@@ -37,7 +37,7 @@ img.selfie{
       margin-left: 10px;
       max-width: 25%;
       max-height: 25%;}
-title{
+.title{
       background-image: linear-gradient(to bottom right, saddlebrown, maroon);
       border: 4px solid #FFFFFF;
       margin-left: 25px;
