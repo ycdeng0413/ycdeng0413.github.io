@@ -4,7 +4,7 @@ body{
       padding: 20px;
       resize: both;
       overflow: auto;}
-h1{
+.title{
       background-image: linear-gradient(to bottom right, sienna, saddlebrown, maroon);
       border: 4px solid #FFFFFF;
       margin-left: 25px;
@@ -15,7 +15,7 @@ h1{
       font-family: Garamond;
       color: white;
       text-align: center;}
-h3{
+.link{
       margin-left: 25px;
       margin-right: 25px;
       margin-top: 5px;
