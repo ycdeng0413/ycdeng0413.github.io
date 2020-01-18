@@ -14,6 +14,7 @@ p.title{
       padding: 20px;
       font-family: Garamond;
       color: white;
+      font-size: 200%;
       text-align: center;}
 p.link{
       margin-left: 25px;
@@ -22,7 +23,7 @@ p.link{
       margin-bottom: 5px;
       font-family: Bookman;
       padding: 2px;
-      font-size: 150%;
+      font-size: 125%;
       text-align: center;}
 a{
       color: black;}
