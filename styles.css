@@ -15,7 +15,7 @@ p.title{
       font-family: Garamond;
       color: white;
       font-size: 200%;
-      text-shadow: -1px -1px #666666;
+      text-shadow: -2px -2px #666666;
       text-align: center;}
 p.link{
       margin-left: 25px;
@@ -37,10 +37,10 @@ a:hover{
       background-color: white;
       border: 1px solid #665544;
       font-family: Georgia;
-      font-size: 1.5vw;
+      font-size: 1.1vw;
       text-align: justify;
       color: black;
-      height: 350px;
+      height: 300px;
       padding: 10px;}
 img.selfie{
       float: right;
