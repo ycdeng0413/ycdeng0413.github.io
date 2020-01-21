@@ -26,7 +26,8 @@ p.link{
       font-size: 133%;
       text-align: center;}
 a{
-      color: black;}
+      color: black;
+      text-decoratioon: none;}
 .bio{
       margin: 25px;
       background-color: white;
