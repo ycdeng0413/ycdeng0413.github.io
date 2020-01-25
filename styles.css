@@ -47,8 +47,18 @@ img.selfie{
       margin-left: 20px;
       max-width: 25%;
       max-height: 25%;}
-tabl.education{
+table.education{
       width: 1000px;
       margin-left: 25px;
       margin-right: 25px;
       padding: 5px;}
+
+td.school{
+      font-family: Georgia;
+      font-size: 1em;
+      color: black;}
+
+td.degree{
+      font-family: Georgia;
+      font-size: 1em;
+      color: darkgray;}
