@@ -56,9 +56,11 @@ table.education{
 td.school{
       font-family: Georgia;
       font-size: 1em;
+      font-weight: bold;
       color: black;}
 
 td.degree{
       font-family: Georgia;
       font-size: 1em;
+      font-weight: bold;
       color: dimgray;}
