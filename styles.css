@@ -57,7 +57,6 @@ td.school{
       font-family: Georgia;
       font-size: 1.2em;
       font-weight: bold;
-      width: 800px;
       color: black;}
 
 td.degree{
@@ -66,9 +65,8 @@ td.degree{
       font-weight: bold;
       color: #868e96;}
 
-
 td.date{
-      font-family: Georgia;
+      font-family: Bookman;
       font-size: 1em;
       font-weight: bold;
       color: #bd5d38;}
