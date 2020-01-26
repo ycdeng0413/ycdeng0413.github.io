@@ -70,6 +70,7 @@ td.degree{
       color: #868e96;}
 
 td.date{
+      text-align: center;
       font-family: Bookman;
       font-size: 1.1em;
       font-weight: bold;
