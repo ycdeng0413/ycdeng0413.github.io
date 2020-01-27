@@ -19,7 +19,8 @@ p.title{
       color: white;
       font-size: 200%;
       text-shadow: -2px -2px #666666;
-      text-align: center;}
+      text-align: center;
+      line-height: 20px;}
 p.link{
       margin-left: 25px;
       margin-right: 25px;
