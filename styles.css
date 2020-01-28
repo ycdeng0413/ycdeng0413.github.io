@@ -47,8 +47,8 @@ a:hover{
       padding: 10px;
       line-height: 24px;}
 img.selfie{
-      float: right;
-      margin-left: 20px;
+      float: left;
+      margin-right: 20px;
       max-width: 25%;
       max-height: 25%;}
 table.education{
