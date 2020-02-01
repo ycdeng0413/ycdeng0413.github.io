@@ -5,6 +5,7 @@ body{
       padding-left: 100px;
       padding-right: 100px;
       resize: both;
+      mid-width: 960px;
       overflow: auto;}
 p.title{
       background-image: linear-gradient(to bottom right, sienna, saddlebrown, maroon);
