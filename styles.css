@@ -9,6 +9,7 @@ body{
       margin-left: auto;
       margin-right: auto;
       width: 960px;}
+
 p.title{
       background-image: linear-gradient(to bottom right, sienna, saddlebrown, maroon);
       height: 35px;
@@ -23,6 +24,7 @@ p.title{
       font-size: 200%;
       text-shadow: -2px -2px #666666;
       text-align: center;}
+
 p.link{
       margin-left: 25px;
       margin-right: 25px;
@@ -32,9 +34,11 @@ p.link{
       padding: 5px;
       font-size: 133%;
       text-align: center;}
+
 a{
       color: black;
       text-decoration: none;}
+
 a:hover{
       text-decoration: underline;
       color: black;}
@@ -49,15 +53,17 @@ a:hover{
       height: 350px;
       padding: 10px;
       line-height: 24px;}
+
 img.selfie{
       float: left;
       margin-right: 20px;
       max-width: 20%;
       max-height: 20%;}
+
 table.education{
       margin-left: 10px;
       margin-right: 10px;
-      padding: 5px;}
+      padding: 10px;}
 
 td.school{
       font-family: Georgia;
