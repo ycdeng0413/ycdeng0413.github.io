@@ -55,8 +55,8 @@ img.selfie{
       max-width: 20%;
       max-height: 20%;}
 table.education{
-      margin-left: 25px;
-      margin-right: 25px;
+      margin-left: 10px;
+      margin-right: 10px;
       padding: 5px;}
 
 td.school{
@@ -73,7 +73,7 @@ td.degree{
       color: #868e96;}
 
 td.date{
-      text-align: center;
+      text-align: right;
       font-family: Bookman;
       font-size: 1em;
       font-weight: bold;
