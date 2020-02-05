@@ -5,8 +5,10 @@ body{
       padding-left: 100px;
       padding-right: 100px;
       resize: both;
-      min-width: 960px;
-      overflow: auto;}
+      overflow: auto;
+      margin-left: auto;
+      margin-right: auto;
+      width: 960px;}
 p.title{
       background-image: linear-gradient(to bottom right, sienna, saddlebrown, maroon);
       height: 35px;
