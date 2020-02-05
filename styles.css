@@ -81,3 +81,9 @@ td.date{
 
 td.space{
       height: 50px;}
+
+table.contact{
+      width: 100%;
+      margin-left: 25px;
+      margin-right: 25px;
+      padding: 5px;}
