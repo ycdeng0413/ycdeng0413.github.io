@@ -62,21 +62,21 @@ table.education{
 
 td.school{
       font-family: Georgia;
-      font-size: 1.1em;
+      font-size: 1em;
       font-weight: bold;
       width: 70%;
       color: black;}
 
 td.degree{
       font-family: Georgia;
-      font-size: 1.1em;
+      font-size: 1em;
       font-weight: bold;
       color: #868e96;}
 
 td.date{
       text-align: center;
       font-family: Bookman;
-      font-size: 1.1em;
+      font-size: 1em;
       font-weight: bold;
       width: 30%;
       color: #bd5d38;}
