@@ -43,7 +43,7 @@ a:hover{
       background-color: white;
       border: 1px solid #665544;
       font-family: Georgia;
-      font-size: 1.1vw;
+      font-size: 1em;
       text-align: justify;
       color: black;
       height: 350px;
@@ -55,7 +55,6 @@ img.selfie{
       max-width: 20%;
       max-height: 20%;}
 table.education{
-      width: 100%;
       margin-left: 25px;
       margin-right: 25px;
       padding: 5px;}
@@ -85,7 +84,6 @@ td.space{
       height: 50px;}
 
 table.contact{
-      width: 100%;
       margin-left: 25px;
       margin-right: 25px;
       padding: 5px;}
