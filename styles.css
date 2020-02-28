@@ -47,7 +47,7 @@ a:hover{
       background-color: white;
       border: 1px solid #665544;
       font-family: Georgia;
-      font-size: 1em;
+      font-size: 0.9em;
       text-align: justify;
       color: black;
       height: 350px;
@@ -57,7 +57,7 @@ a:hover{
 img.selfie{
       float: left;
       margin-right: 20px;
-      max-width: 20%;
+      max-width: 35%;
       max-height: 20%;}
 
 table.education{
