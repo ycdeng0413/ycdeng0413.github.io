@@ -99,13 +99,20 @@ td.Category{
       font-family: Garamond;
       font-size: 1.5em;
       font-weight: bold;
-      width: 700px;
       color: black;}
+
+td.Title{
+      font-family: Garamond;
+      font-size: 1.2em;
+      font-weight: bold;
+      color: black;}
+
 
 td.Job{
       font-family: Garamond;
       font-size: 1.2em;
       font-weight: bold;
+      width: 700px;
       color: black;}
 
 td.Description{
