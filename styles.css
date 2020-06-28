@@ -50,15 +50,15 @@ a:hover{
       font-size: 0.9em;
       text-align: justify;
       color: black;
-      height: 400px;
+      height: 450px;
       padding: 10px;
       line-height: 24px;}
 
 img.selfie{
       float: left;
       margin-right: 20px;
-      max-width: 25%;
-      max-height: 25%;}
+      max-width: 33%;
+      max-height: 30%;}
 
 table.education{
       margin-left: 10px;
