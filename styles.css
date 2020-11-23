@@ -50,14 +50,14 @@ a:hover{
       font-size: 0.9em;
       text-align: justify;
       color: black;
-      height: 500px;
+      height: 520px;
       padding: 10px;
       line-height: 24px;}
 
 img.selfie{
       float: left;
       margin-right: 20px;
-      max-width: 36%;
+      max-width: 38%;
       max-height: 35%;}
 
 table.education{
